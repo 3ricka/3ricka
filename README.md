@@ -6,8 +6,7 @@
  🌱 I’m currently learning python. I've learned HTML, some CSS, bootstrap, some react, and epic systems.
  💞️ I’m looking to collaborate on projects with people who are willing to teach, and open to learn.
  📫 You can reach me on my pager. Just kidding. I am new to Github, Git, coding, and new to program language learning, but not to language
- learning. You should see my Dulingo streak almost over 700 days. I speak English, Spanish, and French. I am currently learning Mandarin too,   and so I hope that program language learning is 
- similar to coding syntax. I do not know how to navigate well on Github, but give me some time, and then an extention. Smile now, smile later.
+ learning. You should see my Dulingo streak almost over 700 days. I speak English, Spanish, and French. I am currently learning Mandarin too,   and so I hope that language learning gives me an advantage to program language learning. I don't know YET, how to navigate well on Github, but give me some time, and then an extention. Smile now, smile later.
  
  
 
