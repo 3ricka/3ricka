@@ -1,5 +1,5 @@
  👋 Hi, I’m @3ricka
- 👀 I’m interested in starting over and starting new. We all been there. Some of us more than once. I have a quote, I know, I know, but 
+ I’m interested in starting over and starting new. We all been there. Some of us more than once. I have a quote, I know, I know, but 
  quotes are so cool, Mark Twain said, "The secret of getting ahead 
  is getting started. 
  The secret of getting started is breaking your complex overwhelming tasks into small manageable tasks, and starting on the first one.”
